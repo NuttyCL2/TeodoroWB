@@ -30,6 +30,7 @@ a:active {
   position: absolute;
   top: 25%;
   left: 50%;
+  font-weight: bold;
   -webkit-transform: translate(-57.6%, 0);
       -ms-transform: translate(-57.6%, 0);
           transform: translate(-57.6%, 0);
